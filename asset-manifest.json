@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Outline/static/js/main.31832a4a.chunk.js",
+    "main.js.map": "/Outline/static/js/main.31832a4a.chunk.js.map",
+    "runtime-main.js": "/Outline/static/js/runtime-main.40d55a22.js",
+    "runtime-main.js.map": "/Outline/static/js/runtime-main.40d55a22.js.map",
+    "static/css/2.a2032d84.chunk.css": "/Outline/static/css/2.a2032d84.chunk.css",
+    "static/js/2.16a6d52a.chunk.js": "/Outline/static/js/2.16a6d52a.chunk.js",
+    "static/js/2.16a6d52a.chunk.js.map": "/Outline/static/js/2.16a6d52a.chunk.js.map",
+    "index.html": "/Outline/index.html",
+    "static/css/2.a2032d84.chunk.css.map": "/Outline/static/css/2.a2032d84.chunk.css.map",
+    "static/js/2.16a6d52a.chunk.js.LICENSE.txt": "/Outline/static/js/2.16a6d52a.chunk.js.LICENSE.txt",
+    "static/media/BgC.7532aaaa.svg": "/Outline/static/media/BgC.7532aaaa.svg",
+    "static/media/authBG.9074c044.svg": "/Outline/static/media/authBG.9074c044.svg",
+    "static/media/coursesBG.f285fbc2.png": "/Outline/static/media/coursesBG.f285fbc2.png",
+    "static/media/createCourseBG.9a68bff1.png": "/Outline/static/media/createCourseBG.9a68bff1.png",
+    "static/media/formTop.53b64bcf.svg": "/Outline/static/media/formTop.53b64bcf.svg",
+    "static/media/logo.c8031471.svg": "/Outline/static/media/logo.c8031471.svg",
+    "static/media/notfoundBG.c940e9a4.svg": "/Outline/static/media/notfoundBG.c940e9a4.svg",
+    "static/media/share.a061d674.svg": "/Outline/static/media/share.a061d674.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d55a22.js",
+    "static/css/2.a2032d84.chunk.css",
+    "static/js/2.16a6d52a.chunk.js",
+    "static/js/main.31832a4a.chunk.js"
+  ]
+}
